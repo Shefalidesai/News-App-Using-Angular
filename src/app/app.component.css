@@ -1,0 +1,22 @@
+.body{
+    font-family: "Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
+    
+}
+.nav-link {
+    color: black;
+    
+    font-family: "Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+.navbar-brand {
+    color: rgb(15, 15, 15);
+    
+    font-family: "Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-style: italic;
+    font-size: larger;
+}
+
+.footer{
+    
+    color: white;
+    font-family: "Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
+}
